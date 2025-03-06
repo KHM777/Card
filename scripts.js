@@ -1,6 +1,6 @@
 const userData = {
-  userName: "John Doe",
-  userTitle: "Web Developer",
+  userName: "Khaled Mohamed",
+  userTitle: "Odoo Developer",
   userAbout: "Lorem ipsum dolor sit amet consectetu adipisicing elit. Fuga praesentium cupiditate hic, magnam at a.",
   profileUrl: "https://i.ibb.co/N7Kkmr1/profile.png",
   coverUrl: "https://i.ibb.co/Fmp3jvj/cover.jpg"
